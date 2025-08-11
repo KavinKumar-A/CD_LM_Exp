@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kavinkumara/CD/pgm1'
+relocations:     []
+...
